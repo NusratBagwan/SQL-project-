@@ -1,4 +1,4 @@
-# SQL-project-pizaa sales analysis 
+# SQL-project-pizza sales analysis 
 The Pizza Sales Project is a data analysis and visualization project aimed at analyzing and visualizing sales data from a fictional pizza restaurant chain.
 # Tools:
 MySQL Workbench 
